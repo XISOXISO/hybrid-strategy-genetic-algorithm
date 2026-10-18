@@ -7,7 +7,7 @@ This directory contains the sample records and fixed splits used by the MSTAR ex
 - [MSTAR Public Dataset — AFRL SDMS](https://www.sdms.afrl.af.mil/index.php?collection=mstar)
 - [SDMS download access and account registration](https://www.sdms.afrl.af.mil/index.php?collection=registration)
 
-Obtain the dataset through the official portal and follow its access and usage terms. The manifests in this directory describe this experiment's subset, rather than an official MSTAR split.
+Obtain the dataset through the official portal and follow its access and usage terms. 
 
 ## Files
 
