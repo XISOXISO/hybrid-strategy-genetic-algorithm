@@ -1,0 +1,99 @@
+{
+  "dataset_id": "d1c7352bbb926c28b4e0665ca6b48c64c429d36ffdcd0b267bd8d4db717c0370",
+  "scan": {
+    "source_image_count": 97375,
+    "source_class_count": 40,
+    "filtered_image_count": 47392,
+    "deduplicated_count": 47392,
+    "duplicates_removed": 0,
+    "excluded": {
+      "depression_not_requested": 49983
+    },
+    "content_check_scope": "All images matching requested depression angles, across all 40 source classes",
+    "decoding": "Strict 128x128 single-frame single-channel nonconstant uint8; no extra log conversion"
+  },
+  "counts": {
+    "train": 3360,
+    "validation": 720,
+    "test": 720
+  },
+  "total": 4800,
+  "class_counts": [
+    {
+      "class": "Chery_qq3",
+      "train": 336,
+      "validation": 72,
+      "test": 72
+    },
+    {
+      "class": "Dongfeng_Forthing_Lingzhi",
+      "train": 336,
+      "validation": 72,
+      "test": 72
+    },
+    {
+      "class": "Dongfeng_Tianjin_DFH2200B",
+      "train": 336,
+      "validation": 72,
+      "test": 72
+    },
+    {
+      "class": "Dongfeng_Tianjin_KR230",
+      "train": 336,
+      "validation": 72,
+      "test": 72
+    },
+    {
+      "class": "Foton_BJ1045V9JB5-54",
+      "train": 336,
+      "validation": 72,
+      "test": 72
+    },
+    {
+      "class": "Great_Wall_Voleex_C50",
+      "train": 336,
+      "validation": 72,
+      "test": 72
+    },
+    {
+      "class": "Hongqi_CA7180A3E",
+      "train": 336,
+      "validation": 72,
+      "test": 72
+    },
+    {
+      "class": "Hyundai_HLF25_II",
+      "train": 336,
+      "validation": 72,
+      "test": 72
+    },
+    {
+      "class": "JINBEI_SY5033XJH",
+      "train": 336,
+      "validation": 72,
+      "test": 72
+    },
+    {
+      "class": "SDLG_ZL40F",
+      "train": 336,
+      "validation": 72,
+      "test": 72
+    }
+  ],
+  "checks": {
+    "exact_quota": true,
+    "group_overlap": false,
+    "decoded_overlap": false,
+    "raw_hash_overlap": false,
+    "original_source_boundary_preserved": true,
+    "original_and_copied_image_xml_integrity": true
+  },
+  "planned_experiment": {
+    "optimizer_runs": 10,
+    "unique_FE_per_run": 500,
+    "executed": false
+  },
+  "difficulty_or_non_saturation_confirmed": false,
+  "test_scored": false,
+  "note": "No CNN was trained. Difficulty and scores must be assessed in a separate precheck."
+}

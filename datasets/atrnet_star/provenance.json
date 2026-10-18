@@ -1,0 +1,25 @@
+{
+  "source_package": "ATRNet_STAR_SOC10_N4800_frozen_dataset.zip",
+  "source_package_sha256": "d8b9ead58aa3c813a9777035cef8619a36ffebe21af8395655cf666c8e242bb8",
+  "original_manifest_sha256": "a3e7c0e55c08727ccabbf59c7aa0ca0422ca2908ce3a9da18ddbb2b51df4df1b",
+  "dataset_id": "d1c7352bbb926c28b4e0665ca6b48c64c429d36ffdcd0b267bd8d4db717c0370",
+  "identity_preserved": true,
+  "memberships_regenerated": false,
+  "split_order_preserved": true,
+  "export_change": "Only the top-level source_root is replaced with a portable dot path; identity is unchanged.",
+  "images_included": false,
+  "xml_annotations_included": false,
+  "decoded_hash_definition": "SHA256 of the decoded 128x128 single-channel uint8 array bytes, without RGB conversion or rescaling.",
+  "metadata_sha256": {
+    "dataset.json": "0415f50f641264d3ad51b19bf33b7c07a576146f727c7b04b8752e9885aad872",
+    "manifest.csv": "7e3d8d9fcf971765d6e3fe69b6cb408db9a974bebf9a3f2d9ac9763d9b6b1038",
+    "train.csv": "bce132ee8318239ca6a7170548534cb5f4f317f94d79468926caa9b636ddbaf9",
+    "val.csv": "6d8b485f03b33eaf8d6dc48f5b5e2414694861b9158f000a3c94f93d3078d81c",
+    "test.csv": "46b71b89ac5fab096b3e431a8adf10c43b115a0f527fe53da0022e8819cfe22d",
+    "label_mapping.json": "0a76322417b9b4140b2629beba3a3dade2174847fd12581f7747745763fd7bee",
+    "class_counts.csv": "9bb33b42ff1beec6419e61fcc4235b3d48ba37e1dee930c03a2c3e7d90f1da0c",
+    "condition_counts.csv": "f3fbf7bc197aec8c0919d7ee4459fae9ef1bf784b76444fafe81d3a78c731859",
+    "group_assignment.csv": "c613aec3470ccb1303f14363b69382d128d1cd9ef32dbe02b057a80928645c63",
+    "audit.json": "a55253dec4c7e0f14a6ed5abbd9d8d9927255e9472de6bda9d9cb582f797aa71"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "classes": [
+    "Chery_qq3",
+    "Dongfeng_Forthing_Lingzhi",
+    "Dongfeng_Tianjin_DFH2200B",
+    "Dongfeng_Tianjin_KR230",
+    "Foton_BJ1045V9JB5-54",
+    "Great_Wall_Voleex_C50",
+    "Hongqi_CA7180A3E",
+    "Hyundai_HLF25_II",
+    "JINBEI_SY5033XJH",
+    "SDLG_ZL40F"
+  ],
+  "label_to_class": {
+    "0": "Chery_qq3",
+    "1": "Dongfeng_Forthing_Lingzhi",
+    "2": "Dongfeng_Tianjin_DFH2200B",
+    "3": "Dongfeng_Tianjin_KR230",
+    "4": "Foton_BJ1045V9JB5-54",
+    "5": "Great_Wall_Voleex_C50",
+    "6": "Hongqi_CA7180A3E",
+    "7": "Hyundai_HLF25_II",
+    "8": "JINBEI_SY5033XJH",
+    "9": "SDLG_ZL40F"
+  },
+  "class_to_label": {
+    "Chery_qq3": 0,
+    "Dongfeng_Forthing_Lingzhi": 1,
+    "Dongfeng_Tianjin_DFH2200B": 2,
+    "Dongfeng_Tianjin_KR230": 3,
+    "Foton_BJ1045V9JB5-54": 4,
+    "Great_Wall_Voleex_C50": 5,
+    "Hongqi_CA7180A3E": 6,
+    "Hyundai_HLF25_II": 7,
+    "JINBEI_SY5033XJH": 8,
+    "SDLG_ZL40F": 9
+  }
+}
