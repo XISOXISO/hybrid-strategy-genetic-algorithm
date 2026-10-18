@@ -1,0 +1,22 @@
+{
+  "suite": "Unified17_T10",
+  "algorithms": [
+    "RandomSearch",
+    "TPE",
+    "CMA_ES",
+    "GridSearchWithBudget",
+    "ASHA",
+    "EvolutionaryHPO",
+    "MomentumBasedRandomSearch",
+    "AdamHPO",
+    "GWO",
+    "PSO",
+    "GA_Basic",
+    "JSO",
+    "LSHADE",
+    "HGA_RM",
+    "HGA_CM",
+    "HGA_SW50",
+    "HGA_SW60"
+  ]
+}

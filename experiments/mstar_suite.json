@@ -1,0 +1,11 @@
+{
+  "suite": "MSTAR_original6_B500_v2",
+  "algorithms": [
+    "JSO",
+    "LSHADE",
+    "HGA_RM",
+    "HGA_CM",
+    "HGA_SW60",
+    "HGA_SW50"
+  ]
+}

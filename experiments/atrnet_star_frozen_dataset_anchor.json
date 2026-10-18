@@ -1,0 +1,44 @@
+{
+  "dataset_id": "d1c7352bbb926c28b4e0665ca6b48c64c429d36ffdcd0b267bd8d4db717c0370",
+  "version": "2.0.0-atr-soc10-n4800-capacity",
+  "classes": [
+    "Chery_qq3",
+    "Dongfeng_Forthing_Lingzhi",
+    "Dongfeng_Tianjin_DFH2200B",
+    "Dongfeng_Tianjin_KR230",
+    "Foton_BJ1045V9JB5-54",
+    "Great_Wall_Voleex_C50",
+    "Hongqi_CA7180A3E",
+    "Hyundai_HLF25_II",
+    "JINBEI_SY5033XJH",
+    "SDLG_ZL40F"
+  ],
+  "request": {
+    "num_classes": 10,
+    "per_class": [
+      336,
+      72,
+      72
+    ],
+    "depressions": [
+      15.0,
+      30.0
+    ],
+    "sector_degrees": 30,
+    "guard_degrees": 2.5,
+    "class_seed": 42,
+    "split_seed": 42,
+    "sample_seed": 42,
+    "specified_classes": [],
+    "copy_mode": "copy",
+    "expected_source_classes": 40
+  },
+  "source_hashes": {
+    "utils.py": "78f9ac9c6a81c110d0e9fa4b7a137f6cd4299742a8bbea22856c8392d5bd3414",
+    "atr_image.py": "7d3d64b19e5eda830acf252543ccb9cfda32c2d01b657cf8779a72a319f50275",
+    "dataset.py": "9271143bc3ca6146a48e358ba209a3d42abde4b7a44cb5db13b3a1ed8642652e",
+    "prepare_data.py": "57061e64cd3b7230d6e9fc07f15c646437748496cbd51e5474b2870f01dc7f42",
+    "verify_data.py": "ecbf9f06b22cbe2ed19cb96437425af631b238801177353dafcf5ee801e32bcc",
+    "progress.py": "f048dc2dbbaff2bf5e737d72825001323dafd8348bd596eefc76016499ac91a0"
+  }
+}

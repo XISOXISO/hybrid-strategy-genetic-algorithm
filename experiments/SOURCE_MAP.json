@@ -1,0 +1,276 @@
+{
+  "files": [
+    {
+      "file": "run_cec2022.py",
+      "source_file": "cec_experiments_original/CEC2022_17Algorithms_R100_v1/run_experiment.py",
+      "original_sha256": "cd4a479a5f96868b180539185813c265da2e9e7ab85c7273cf139b42f4701cf9"
+    },
+    {
+      "file": "cec2022_cec_evaluator.py",
+      "source_file": "cec_experiments_original/CEC2022_17Algorithms_R100_v1/cec_evaluator.py",
+      "original_sha256": "be589e4f5bc1a1df118425198d3a22d67bdc9b774b14bffe9109a26894d4a4ff"
+    },
+    {
+      "file": "summarize_cec2022.py",
+      "source_file": "cec_experiments_original/CEC2022_17Algorithms_R100_v1/summarize.py",
+      "original_sha256": "8d9558e14d5c5981ef68e8b3c7995d3bbeee64939238182221251da497b9650d"
+    },
+    {
+      "file": "mstar_dashboard.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/dashboard.py",
+      "original_sha256": "830443f5a55b4d5169c8c100dec3c04682add5867d632a3f660f38add22576cf"
+    },
+    {
+      "file": "pack_mstar_results.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/pack_results.py",
+      "original_sha256": "2526d5af0084ff9ba27da886658928b95f2d809fd00127da37f97c5349a9a6f4"
+    },
+    {
+      "file": "mstar_prepare_weights.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/prepare_weights.py",
+      "original_sha256": "6cb74683b9043bc907bd861ebac16e7110eb21d9d3dc345389044bd26566aa9d"
+    },
+    {
+      "file": "mstar_checkpoint_archive.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/checkpoint_archive.py",
+      "original_sha256": "3b529e3fb1785b530e25339157cb024f2f8e5a8ab5cb015671fd90980715c52d"
+    },
+    {
+      "file": "mstar_equivalence.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/equivalence.py",
+      "original_sha256": "2589b9027f3d413b7d98af5d2c7866f6bf7dd681d8d418fc9d37244e403adb16"
+    },
+    {
+      "file": "run_mstar.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/run_experiment.py",
+      "original_sha256": "ed7c32f8f0cc9110cefe1c11eeaeb6fbff3456cff32a7557819dd56a1a5b5b35"
+    },
+    {
+      "file": "mstar_training_prefetch.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/training_prefetch.py",
+      "original_sha256": "a2f66c73b100f1025ad5b5e18b3f2924ed5df10df299764d927e31a4ba19aedd"
+    },
+    {
+      "file": "mstar_final_evaluation.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/final_evaluation.py",
+      "original_sha256": "5aabafb5cf8754f3fd0862f6d224e9b25cb635763a0a03342c4bfd2d8fcf451b"
+    },
+    {
+      "file": "mstar_tensor_cache.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/tensor_cache.py",
+      "original_sha256": "5b2916f9887bd2b3aada840c0e10a9b5bc392b3a228ffe2e3afcb967a53d7225"
+    },
+    {
+      "file": "mstar_migration_v1.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/migration_v1.py",
+      "original_sha256": "3e94b753e62b77d632ee18a04718f3678d9f417992f84243ea6156728e7ed962"
+    },
+    {
+      "file": "report_mstar.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/reporting.py",
+      "original_sha256": "6c3d891265be60d342da1f3e8174cd0a4dccb56d7300b454f4c049791b407d56"
+    },
+    {
+      "file": "mstar_shard_results.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/shard_results.py",
+      "original_sha256": "cc61e49098b451afab3a51c68fc832bb7e0adcea82a36130b9c288f015391a71"
+    },
+    {
+      "file": "mstar_resilient_scheduler.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/resilient_scheduler.py",
+      "original_sha256": "9adba81c90c94336261e002ef6c6e32800a1701f4b809d3610e05dde0eaa7a30"
+    },
+    {
+      "file": "mstar_paper_outputs.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/paper_outputs.py",
+      "original_sha256": "b6ce01ff0f559726f27e075e95463b16b6eb0168971a6f4b348a6fad851fe508"
+    },
+    {
+      "file": "mstar_dataset.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/dataset.py",
+      "original_sha256": "d8511c88341c8a5f16b5240afaa6c7d23e6b43e96b4a7247e61afbbce0cd5872"
+    },
+    {
+      "file": "mstar_run_audit.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/run_audit.py",
+      "original_sha256": "bbd4ea60110977b8cb2af4869f1691164bc2509ebe826c497ff252ebf933eb6d"
+    },
+    {
+      "file": "mstar_backend.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/backend.py",
+      "original_sha256": "828ccf649fc24c414c150b50712840a0f770f47edbf6c8c48640acd885fcd0cb"
+    },
+    {
+      "file": "mstar_common.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/common.py",
+      "original_sha256": "ef11eb896dc9ab1e78c9fa3c04470e6e9e257b71c6b651b09d887f2727b67c3b"
+    },
+    {
+      "file": "mstar_cnn_core.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/cnn_core.py",
+      "original_sha256": "9168a907c30335503a7c95c0f7d34a92207a7dec23d2368ca298d018b7a47356"
+    },
+    {
+      "file": "mstar_candidate_engine.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/candidate_engine.py",
+      "original_sha256": "83da42076a6543f7d51ca3a096988cbd377587730e32fa285eb7cb9e63f6ace9"
+    },
+    {
+      "file": "atrnet_star_dashboard.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/dashboard.py",
+      "original_sha256": "1e73b6f2ccb0e894777227c7e676ef2400a06b3120b1b9e89f41a22799d59774"
+    },
+    {
+      "file": "pack_atrnet_star_results.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/pack_results.py",
+      "original_sha256": "4e707eee2f539ce21a20ac9f73dc62a6a4a5136949a48ecc7ff467e7e2d18787"
+    },
+    {
+      "file": "atrnet_star_atr_image.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/atr_image.py",
+      "original_sha256": "7d3d64b19e5eda830acf252543ccb9cfda32c2d01b657cf8779a72a319f50275"
+    },
+    {
+      "file": "run_atrnet_star.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/run_experiment.py",
+      "original_sha256": "65e464b44edcc35d4419af34005397e212da34ac34caadcda3d4749964d72be3"
+    },
+    {
+      "file": "atrnet_star_final_evaluation.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/final_evaluation.py",
+      "original_sha256": "b5450f94f683de9b5f3648e5c9f04c43efc80704a22ca3c123885a18d5835df7"
+    },
+    {
+      "file": "report_atrnet_star.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/reporting.py",
+      "original_sha256": "055930541c49edf3a102eaf5064a9484d5511bca704cf891f0aa9f1fe885d437"
+    },
+    {
+      "file": "atrnet_star_monitor.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/monitor.py",
+      "original_sha256": "751644645d0e328e23bb1d2ec9449cf7e207b1284de2d45362b78a18b73bf8e6"
+    },
+    {
+      "file": "atrnet_star_resilient_scheduler.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/resilient_scheduler.py",
+      "original_sha256": "665294dd3cdf9151eb696badac1a5dbff9810de2597bb5b6d9afd7f67e9d2b2a"
+    },
+    {
+      "file": "atrnet_star_dataset.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/dataset.py",
+      "original_sha256": "137c37dea458703b1ad808f74a5bf10226cdd686f44e4e99049f6bf449b15537"
+    },
+    {
+      "file": "atrnet_star_migration.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/migration.py",
+      "original_sha256": "d2480add02bccd0b54df217eb8a4026c04db66b2e559562426f75b23ed23dba3"
+    },
+    {
+      "file": "atrnet_star_backend.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/backend.py",
+      "original_sha256": "0aec18f14716da1921e9b02667f9520fa6fc861d24e4650110178aa15c8e7481"
+    },
+    {
+      "file": "atrnet_star_common.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/common.py",
+      "original_sha256": "2b5933ec6459f9e45b6c8fa6b77fed06e98ba199273c2fd93c605a44dac70b70"
+    },
+    {
+      "file": "atrnet_star_cnn_core.py",
+      "source_file": "atr_dataset_original/ATRNet_STAR_SOC10_Formal_B500_v5/cnn_core.py",
+      "original_sha256": "87aa9f3b6de6c9a3ff8ac8c52aa0cd3b6103295cb739f946177d56c6df93bc3a"
+    },
+    {
+      "file": "mstar_v1_common.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/common.py",
+      "original_sha256": "c28bc085b8f77122f6eead21f3d05dccbd6c048c082c6dd7203003582d16cfb1"
+    },
+    {
+      "file": "mstar_v1_dataset.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/dataset.py",
+      "original_sha256": "d8511c88341c8a5f16b5240afaa6c7d23e6b43e96b4a7247e61afbbce0cd5872"
+    },
+    {
+      "file": "mstar_v1_cnn_core.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/cnn_core.py",
+      "original_sha256": "401164360bd434f3c5e72f34bb08c1f7c70d02bb6ac1311f7a386755fd43f16d"
+    },
+    {
+      "file": "mstar_v1_backend.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/backend.py",
+      "original_sha256": "487e17b2090476946a1c156f0c8532e4eb5c14c89e4370411925acba9977efc2"
+    },
+    {
+      "file": "mstar_v1_journal.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/journal.py",
+      "original_sha256": "b6ae75f295b712dfaf05c74723fc6c8cdff7495f8463bad27a495958ce57db54"
+    },
+    {
+      "file": "mstar_v1_resilient_scheduler.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/resilient_scheduler.py",
+      "original_sha256": "9adba81c90c94336261e002ef6c6e32800a1701f4b809d3610e05dde0eaa7a30"
+    },
+    {
+      "file": "mstar_v1_run_experiment.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/run_experiment.py",
+      "original_sha256": "d6b9cdfa1dcf86193c8439daecf42e9f5feab74e2cf24703446cfa9a38cca44b"
+    },
+    {
+      "file": "mstar_v1_reporting.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/reporting.py",
+      "original_sha256": "2376c5a28c32cf4a0ec27aec04687e52fbbcfeb7cd286bdb41fa2c68bb7c1788"
+    },
+    {
+      "file": "mstar_v1_optimizers.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/optimizers.py",
+      "original_sha256": "d8a326ae6cbe2f3e3ec267499977a5071776222bfbd9283cd36cd0b602578e80"
+    },
+    {
+      "file": "mstar_v1_hga_optimizer.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/hga_optimizer.py",
+      "original_sha256": "b2a56ca0f850bb7f845fd1a334da6fa4a8144a16049fb4a891a7389e2da984b8"
+    },
+    {
+      "file": "mstar_v1_hga_reuse.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/hga_reuse.py",
+      "original_sha256": "f17771d6873a3fffb34ff7258b2fbb443c1e23756ddfec4731e08fc703034554"
+    },
+    {
+      "file": "mstar_v1_shared_resources.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/shared_resources.py",
+      "original_sha256": "4955f7e50d429182c968c4880ff74841d6d87dc913eab25a3e2a09f38464b7ae"
+    },
+    {
+      "file": "mstar_v1_de_optimizers.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/de_optimizers.py",
+      "original_sha256": "4f1b2af37134b74e1e3baf3c3af5582f0ce1742b6c2ede9c7ed48ce8f3a2d32a"
+    },
+    {
+      "file": "mstar_v1_checkpoints.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/checkpoints.py",
+      "original_sha256": "33f3b2542998e0a18741a371359abe7cdb557441631251243802f498840d4347"
+    },
+    {
+      "file": "mstar_v1_final_evaluation.py",
+      "source_file": "combined_mstar_original/MSTAR_Original6_B500_v4/v1_reference/final_evaluation.py",
+      "original_sha256": "5aabafb5cf8754f3fd0862f6d224e9b25cb635763a0a03342c4bfd2d8fcf451b"
+    }
+  ],
+  "layout": "Flat experiments directory with task-prefixed support modules",
+  "algorithms": "Imported from the existing src/HGA and src/baselines directories",
+  "reference_note": "Frozen V1 reference code is comment-stripped and relocated; exported reference hashes identify these relocated files. Historical output directories keep their original identities.",
+  "source_packages": {
+    "CEC2022_17Algorithms_R100_v1.zip": "97f930fe6293aa2eb5a911a2796be0f52977520ace6e9caae526d174d3715019",
+    "MSTAR_Original6_B500_v4.zip": "6ec30fde564d90c0dbcc740600ac3f7a4116e1c8b7cd129b44dc33a6fe66de53",
+    "ATRNet_STAR_SOC10_Formal_B500_v5(1).zip": "2afdb684989cd132f38c06218b45098321b83bf4344ab7a26b57b26f2acd2077"
+  },
+  "integration_changes": [
+    "Task-prefixed module imports and relocated resource paths in a flat directory.",
+    "Active optimizers imported from existing src/HGA and src/baselines packages.",
+    "Portable repository-relative default data, output and cache paths.",
+    "MSTAR enables the HGA variants already listed in its original suite and implemented by its original worker.",
+    "MSTAR accepts prepared metadata without audit.json by snapshotting the verified manifest identity and counts.",
+    "Runtime source inventories include the relocated files and the external algorithm dependencies.",
+    "All comments and standalone explanatory string expressions are removed."
+  ]
+}

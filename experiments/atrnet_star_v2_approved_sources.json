@@ -1,0 +1,52 @@
+{
+  "package": "ATRNet_STAR_SOC10_Formal_B500_v2.zip",
+  "sha256": {
+    "PROVENANCE.json": "0f3b5316bbc5122c00c9545083a98a5ec1e571d0893cda2ec2e4c5225760385e",
+    "SHA256SUMS.json": "7d7a49f828a3d179452514b261fd76952207f654aa795194c77fc5e3dad0c767",
+    "VALIDATION.json": "afd3fc88204f7733aaca3ffcc380f26dd449d860de9bf7598c89a8ba7dfd7642",
+    "atr_image.py": "7d3d64b19e5eda830acf252543ccb9cfda32c2d01b657cf8779a72a319f50275",
+    "backend.py": "17d1db7ac2d7f6f9e67ae004dd821ecab7dd1b4cc7afa4a510d136bd79bba078",
+    "check_environment.py": "2d03cd991491d3f8c6875329f35646ea8f3d6ac323b778ba70c8634b10a78efb",
+    "checkpoints.py": "beec257688ea4127b8cd58c0057faa634646ed91d892641676ba9e1f42d86cae",
+    "cnn_core.py": "87aa9f3b6de6c9a3ff8ac8c52aa0cd3b6103295cb739f946177d56c6df93bc3a",
+    "common.py": "0da50466985b359c0af244160a8dbba4b21e22db74e89bef1834153c62b9d316",
+    "dashboard.py": "03ca86ae1c51e7e69c3a26f7bc5c9061714fc1a2b272c7e037a471bbc15e4e98",
+    "dataset.py": "137c37dea458703b1ad808f74a5bf10226cdd686f44e4e99049f6bf449b15537",
+    "final_evaluation.py": "b5450f94f683de9b5f3648e5c9f04c43efc80704a22ca3c123885a18d5835df7",
+    "frozen_dataset_anchor.json": "904bd0f3b6582c7030a97c21e3a58465e6bfbe2826481cc613a861e64c5f7e68",
+    "hga_optimizer.py": "99e4a86a00b89942b5e5b80b023b00a24c61f4cb3c11bd4119de783ab562fcf4",
+    "journal.py": "b6ae75f295b712dfaf05c74723fc6c8cdff7495f8463bad27a495958ce57db54",
+    "legacy_algorithms.py": "a1b549a16e5c9122f9feb799d7a9abfa935b5c8d88f43e54d30dc0b61c29c9d2",
+    "optimizers.py": "d8c75e1fe160cb6603a9121d4f92ef8a59f0edcf0e1dcc8a490ce21b570204e9",
+    "pack_results.py": "558a40f049012b439cf5789d8bf4cd28a0f4b84845f2c072879ff8eb0c4efe18",
+    "reporting.py": "71692d8faa0abf58f8c2237aac73f19876e6e27a717b7064838d05b2d21b4aa4",
+    "run_experiment.py": "b6726aa64f0c613a9f9ebb0a88f20d5e6917013814834d3c180897453c6f1f7a",
+    "suite.json": "920622fe198b044b3c9762b61940b98b2736e59d18f8f711c0978f3abca09a7d",
+    "test_cache.py": "e3091e74838d37a2651eb0d8eda0de02eb9f8f41cb8531fba62cc8858229c7aa",
+    "test_final_pipeline.py": "4ac5a694845edab98323134cb11496d73ff49f55cb95033b62f653662ad63093",
+    "test_formal.py": "a5ca3643ada2a4b0ff734b8172f3b33fda827e9005d2367e019654cb3bec9514",
+    "test_frozen_data.py": "c00a477796b1f58e98e4d33f6492f6878f6fe1c16dd9de37af389a2c7d797d7e",
+    "test_worker_threads.py": "7267208af45b25f8f6f7b55119aebac2b2ad5c793595151dabf03ba062ae4a23"
+  },
+  "runtime_names": [
+    "common.py",
+    "dataset.py",
+    "cnn_core.py",
+    "atr_image.py",
+    "backend.py",
+    "journal.py",
+    "run_experiment.py",
+    "reporting.py",
+    "optimizers.py",
+    "legacy_algorithms.py",
+    "hga_optimizer.py",
+    "suite.json",
+    "frozen_dataset_anchor.json",
+    "checkpoints.py",
+    "final_evaluation.py"
+  ],
+  "suite_sha256": [
+    "920622fe198b044b3c9762b61940b98b2736e59d18f8f711c0978f3abca09a7d",
+    "7b6b970c7fbc2fd01a84a23ac714574fc4f3e3e1a5aab07455b26dfdfbca06b9"
+  ]
+}

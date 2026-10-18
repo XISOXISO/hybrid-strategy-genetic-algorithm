@@ -1,0 +1,23 @@
+{
+  "syntax_python_3_10": "passed",
+  "python_comments": "none",
+  "python_docstrings_or_standalone_explanatory_strings": "none",
+  "renamed_local_imports": "passed",
+  "cec2022": {
+    "algorithm_factory_interfaces": 17,
+    "mixed_dimension_functions_evaluated": 12,
+    "actual_cpu_function_run_and_checkpoint_resume": "passed"
+  },
+  "mstar": {
+    "synthetic_tracks": 6,
+    "synthetic_run_and_checkpoint_resume": "passed",
+    "actual_frozen_training_validation_images_verified": 4393
+  },
+  "atrnet_star": {
+    "synthetic_tracks": 17,
+    "synthetic_run_and_checkpoint_resume": "passed",
+    "actual_frozen_training_validation_images_and_xml_verified": 4080
+  },
+  "formal_gpu_training_rerun": false,
+  "limitation": "No CUDA training was executed in this environment. Workflow checks used CPU synthetic backends for recognition experiments."
+}
