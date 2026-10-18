@@ -1,0 +1,12 @@
+{
+  "source_package": "MSTAR_Original6_B500_v4.zip",
+  "source_package_sha256": "6ec30fde564d90c0dbcc740600ac3f7a4116e1c8b7cd129b44dc33a6fe66de53",
+  "source_manifest": "MSTAR_Original6_B500_v4/data/dataset.json",
+  "source_manifest_sha256": "625dced3793ce652ed33bfb17a4eebd2ca51e62cd35e84694ab197b5a431234d",
+  "dataset_id": "0a587c6579467ae7d369662d923bb56bc60f53462b2ad9aac3d403523d198439",
+  "original_split_file_sha256": "061b21733fd68e558be69d885192bb1b434051d4de800a383b0cbff79975346c",
+  "membership_regenerated": false,
+  "split_order_preserved": true,
+  "images_included": false,
+  "decoded_hash_definition": "SHA256 of PIL Image.convert(\"RGB\").tobytes() at the original image dimensions"
+}
