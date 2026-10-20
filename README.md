@@ -39,7 +39,7 @@ Dataset images and original XML annotations are obtained from the official provi
 - [Official download access and account registration](https://www.sdms.afrl.af.mil/index.php?collection=registration)
 - [MSTAR subset documentation](datasets/mstar/README.md)
 
-The MSTAR manifests describe the subset and partitions used by this experiment. Reconstruction requires the prepared JPEG files matching the recorded checksums; native Phoenix-to-JPEG conversion is not included.
+The MSTAR manifests describe the subset and partitions used by this experiment. Reconstruction requires the prepared JPEG files matching the recorded checksums.
 
 ### ATRNet-STAR
 
